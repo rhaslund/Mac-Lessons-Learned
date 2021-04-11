@@ -12,5 +12,6 @@ List of lessons learned as switching from Windows to Mac
   4. Rename the new aggreate device to something useful so you know which one it is.
 
 - Unable to "browse" the file system like in Windows File Explorer: Finder > Preferences > Sidebar > Put checkbox next to local computers name. Potentially add to finder favorites.
+- Finder folders not sorting at the top: Finder > Preferences > Advanced > Keep folders on top > In windows when sorting by name
 
 Unsolved problems:
