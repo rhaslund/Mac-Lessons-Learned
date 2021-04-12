@@ -17,3 +17,4 @@ List of lessons learned as switching from Windows to Mac
 - Scroll whell is reversed: https://pilotmoon.com/scrollreverser/
 
 Unsolved problems:
+- RIGHT_OPTION+2 = @
