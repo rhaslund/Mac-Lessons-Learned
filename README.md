@@ -13,5 +13,6 @@ List of lessons learned as switching from Windows to Mac
 
 - Unable to "browse" the file system like in Windows File Explorer: Finder > Preferences > Sidebar > Put checkbox next to local computers name. Potentially add to finder favorites.
 - Finder folders not sorting at the top: Finder > Preferences > Advanced > Keep folders on top > In windows when sorting by name
+- CMD-TAB only shows apps, not windows of individual apps. Making it difficult to switch from one Google Chrome window to another. Use free ALT+TAB app: https://alt-tab-macos.netlify.app/
 
 Unsolved problems:
