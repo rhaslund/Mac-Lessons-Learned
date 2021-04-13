@@ -15,6 +15,7 @@ List of lessons learned as switching from Windows to Mac
 - Finder folders not sorting at the top: Finder > Preferences > Advanced > Keep folders on top > In windows when sorting by name
 - CMD-TAB only shows apps, not windows of individual apps. Making it difficult to switch from one Google Chrome window to another. Use free ALT+TAB app: https://alt-tab-macos.netlify.app/
 - Scroll whell is reversed: https://pilotmoon.com/scrollreverser/
+- SSH certificate (.pem) files should be chmod 600 to avoid THIS IS UNSAFE errors preventing them from being used.
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
