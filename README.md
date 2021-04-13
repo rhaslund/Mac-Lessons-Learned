@@ -18,3 +18,4 @@ List of lessons learned as switching from Windows to Mac
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
+- OBS full screen preview starts in a new "OBS" space rather than the "Default" space on that screen.
