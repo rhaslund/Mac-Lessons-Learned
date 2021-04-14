@@ -20,10 +20,10 @@ List of lessons learned as switching from Windows to Mac
   2. Move .pem file from fx AWS here
   3. Run command: ssh-add -K ~/.ssh/your-private-key.pem
   4. Create ~/.ssh/config file if it does not exist and add:
- > Host *
- >  UseKeychain yes
- >  AddKeysToAgent yes
- >  IdentityFile ~/.ssh/your-private-key.pem
+ > Host *  
+ >  UseKeychain yes  
+ >  AddKeysToAgent yes  
+ >  IdentityFile ~/.ssh/your-private-key.pem  
 
 - SSH certificate (.pem) files should be chmod 600 to avoid THIS IS UNSAFE errors preventing them from being used.
 
