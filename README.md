@@ -26,6 +26,7 @@ List of lessons learned as switching from Windows to Mac
  >  IdentityFile ~/.ssh/your-private-key.pem  
 
 - SSH certificate (.pem) files should be chmod 600 to avoid THIS IS UNSAFE errors preventing them from being used.
+- Default mail client should be Outlook, not Apple Mail: Open "Mail" app -> Preferences -> General -> Select Microsoft Outlook.
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
