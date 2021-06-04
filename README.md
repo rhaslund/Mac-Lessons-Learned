@@ -27,6 +27,7 @@ List of lessons learned as switching from Windows to Mac
 
 - SSH certificate (.pem) files should be chmod 600 to avoid THIS IS UNSAFE errors preventing them from being used.
 - Default mail client should be Outlook, not Apple Mail: Open "Mail" app -> Preferences -> General -> Select Microsoft Outlook.
+- Add SharePoint location to local Finder window: http://www.mndi.ca/index.php/support/microsoft-sharepoint/14-add-a-sharepoint-folder-in-osx-10-6-x
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
