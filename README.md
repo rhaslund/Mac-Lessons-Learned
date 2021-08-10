@@ -29,6 +29,7 @@ List of lessons learned as switching from Windows to Mac
 - Default mail client should be Outlook, not Apple Mail: Open "Mail" app -> Preferences -> General -> Select Microsoft Outlook.
 - Add SharePoint location to local Finder window: http://www.mndi.ca/index.php/support/microsoft-sharepoint/14-add-a-sharepoint-folder-in-osx-10-6-x
 - Stop creating .DS_Store files, execute terminal command: defaults write com.apple.desktopservices DSDontWriteNetworkStores true
+- Missing add-ons in Microsoft Outlook such as corporate "Report Phish" button. Enable "Optional Connected Preferences" in the Outlook App menu > Preferences > Privacy
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
