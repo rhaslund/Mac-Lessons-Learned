@@ -31,6 +31,7 @@ List of lessons learned as switching from Windows to Mac
 - Stop creating .DS_Store files, execute terminal command: defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 - Missing add-ons in Microsoft Outlook such as corporate "Report Phish" button. Enable "Optional Connected Preferences" in the Outlook App menu > Preferences > Privacy
 - Show ping statistics without stopping ping: CTRL+T
+- List network interfaces: networksetup -listallhardwareports
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
