@@ -30,6 +30,7 @@ List of lessons learned as switching from Windows to Mac
 - Add SharePoint location to local Finder window: http://www.mndi.ca/index.php/support/microsoft-sharepoint/14-add-a-sharepoint-folder-in-osx-10-6-x
 - Stop creating .DS_Store files, execute terminal command: defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 - Missing add-ons in Microsoft Outlook such as corporate "Report Phish" button. Enable "Optional Connected Preferences" in the Outlook App menu > Preferences > Privacy
+- Show ping statistics without stopping ping: CTRL+T
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
