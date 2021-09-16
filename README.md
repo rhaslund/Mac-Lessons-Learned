@@ -32,6 +32,7 @@ List of lessons learned as switching from Windows to Mac
 - Missing add-ons in Microsoft Outlook such as corporate "Report Phish" button. Enable "Optional Connected Preferences" in the Outlook App menu > Preferences > Privacy
 - Show ping statistics without stopping ping: CTRL+T
 - List network interfaces: networksetup -listallhardwareports
+- GeforceNOW cloud gaming platform suffers periodical lag if the Mac has location services enabled. Must be completely disabled.
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
