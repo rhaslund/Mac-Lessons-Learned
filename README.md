@@ -33,6 +33,7 @@ List of lessons learned as switching from Windows to Mac
 - Show ping statistics without stopping ping: CTRL+T
 - List network interfaces: networksetup -listallhardwareports
 - GeforceNOW cloud gaming platform suffers periodical lag if the Mac has location services enabled. Must be completely disabled.
+- Stop Chrome from changing mail handler to for example outlook.com webapp: chrome://settings/handlers and set to "Don't allow sites to handle protocols".
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
