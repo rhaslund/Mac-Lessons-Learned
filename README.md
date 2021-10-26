@@ -36,6 +36,7 @@ List of lessons learned as switching from Windows to Mac
 - Stop Chrome from changing mail handler to for example outlook.com webapp: chrome://settings/handlers and set to "Don't allow sites to handle protocols".
 - When recording, the menu bar can be annoying at the top of the shared screen. Make it automatically hide in System Preferenes > Dock & Menu > "Automatically hide and show the menu bar"
 - Custom DNS resolution for a single domain can be handled by creating a new folder /etc/resolver and a file per domain inside such as /etc/resolver/rasmushaslund.com
+- Install PowerCLI: Install-Module -Name "VMware.PowerCLI" -Scope "CurrentUser"
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
