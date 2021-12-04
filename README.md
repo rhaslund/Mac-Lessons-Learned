@@ -37,6 +37,7 @@ List of lessons learned as switching from Windows to Mac
 - When recording, the menu bar can be annoying at the top of the shared screen. Make it automatically hide in System Preferenes > Dock & Menu > "Automatically hide and show the menu bar"
 - Custom DNS resolution for a single domain can be handled by creating a new folder /etc/resolver and a file per domain inside such as /etc/resolver/rasmushaslund.com
 - Install PowerCLI: Install-Module -Name "VMware.PowerCLI" -Scope "CurrentUser"
+- Cut and Paste files in Finder: COMMAND+C to "Copy" or "Cut", then COMMAND+OPTION+V to "Paste with cut from source"
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
