@@ -38,6 +38,7 @@ List of lessons learned as switching from Windows to Mac
 - Custom DNS resolution for a single domain can be handled by creating a new folder /etc/resolver and a file per domain inside such as /etc/resolver/rasmushaslund.com
 - Install PowerCLI: Install-Module -Name "VMware.PowerCLI" -Scope "CurrentUser"
 - Cut and Paste files in Finder: COMMAND+C to "Copy" or "Cut", then COMMAND+OPTION+V to "Paste with cut from source"
+- Added pagead2.googlesyndication.com to be blocked in /etc/hosts file for IPv4 and IPv6 to block ad on www.bigtimer.net inside OBS after updating OBS to 27.2.
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
