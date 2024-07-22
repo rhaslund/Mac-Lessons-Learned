@@ -39,6 +39,7 @@ List of lessons learned as switching from Windows to Mac
 - Install PowerCLI: Install-Module -Name "VMware.PowerCLI" -Scope "CurrentUser"
 - Cut and Paste files in Finder: COMMAND+C to "Copy" or "Cut", then COMMAND+OPTION+V to "Paste with cut from source"
 - Added pagead2.googlesyndication.com to be blocked in /etc/hosts file for IPv4 and IPv6 to block ad on www.bigtimer.net inside OBS after updating OBS to 27.2.
+- Install applications automatically from AppStore using Homebrew utility: mas - example: mas install 6504861501 (to install Ghostery ad-blocker)
 
 Unsolved problems:
 - RIGHT_OPTION+2 = @
